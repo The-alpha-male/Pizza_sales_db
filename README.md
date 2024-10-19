@@ -1,11 +1,12 @@
 # Pizza_sales_db
 
 ## Project Scenario
-A client is opening up a new pizzeria and gives a project build. He requires you to build a tailor-made bespoke relational database for his business that will allow him to capture and store all the important information and data that the business generates this will help monitor the business performance. 
+A client is opening up a new pizzeria and gives a project build. He requires you to build a tailor-made bespoke relational database for his business that will allow him to capture and store all the important information and data that the business generates this will help monitor the business performance.
+
 The main areas of focus are;
-    - Orders
-    - Stock control
-    - Staff
+    - `Orders`
+    - `Stock control`
+    - `Staff`
 Orders data required include;
   - Item name
   - Item price
