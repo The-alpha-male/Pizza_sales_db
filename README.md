@@ -19,3 +19,4 @@ Orders data required include;
 2. Write custom SQL Queries
 3. Build an interactive dashboard
 
+<img width="960" alt="image" src="https://github.com/The-alpha-male/Pizza_sales_db/blob/main/SQL%2Bportfolio%2Bproject.png">
