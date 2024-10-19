@@ -14,6 +14,14 @@ Orders data required include;
   - Customer name
   - Delivery address
 
+## Stock order requirements
+The client wants to know when it's time to order new stock.
+To do this we need to know;
+    - what ingredients are used to make the pizza
+    - quantity based on pizza size
+    - existing stock level
+The assumption will be that the lead time for delivery by suppliers is the same for all ingredients
+
 ## Objectives
 1. Build SQL database
 2. Write custom SQL Queries
