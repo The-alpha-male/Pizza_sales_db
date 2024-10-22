@@ -1,0 +1,21 @@
+ingredient_id,ingredient_name,ingredient_weight,ingredient_measurement,ingredient_price
+ING001,Pizza dough,2500,grams,159.00
+ING002,Dried oregano,3500,grams,306.00
+ING003,Tuna,3000,grams,147.00
+ING004,Spicy salami,5000,grams,372.00
+ING005,Pepperoni,4500,grams,259.00
+ING006,Shrimp,4700,grams,253.00
+ING007,Chicken wings,2500,grams,327.00
+ING008,Ham,2000,grams,303.00
+ING009,Lettuce,1000,grams,139.00
+ING010,Ice cream,1150,grams,440.00
+IN0G11,Garlic,1500,grams,156.00
+ING012,Pineapple,500,grams,153.00
+ING013,Eggplant,2541,grams,353.00
+ING014,Pepper,1000,grams,217.00
+ING015,Capers,2570,grams,185.00
+ING016,Tomato Sauce,4000,grams,133.00
+ING017,Vanilla Ice cream,2671,grams,200.00
+ING018,Caesar dressing,2500,grams,120.00
+ING019,Mozzarella cheeese,2000,grams,500.00
+ING020,Beef,5000,grams,400.00
