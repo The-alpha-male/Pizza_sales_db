@@ -22,9 +22,6 @@ To do this we need to know;
     - existing stock level
 The assumption will be that the lead time for delivery by suppliers is the same for all ingredients
 
-## Staff data requirements
-- The client wants to know  which staff members are working and when
-- Based on the staff salary info, how much does each pizza cost (ingredients + chefs + delivery )
 ## Objectives
 1. Build SQL database
 2. Write custom SQL Queries
